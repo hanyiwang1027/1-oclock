@@ -1,0 +1,28 @@
+body {
+    color: #ADD0E1;
+    font-family: 'Space Grotesk';
+    margin-top: 18%;
+    margin-left: 27%;
+    margin-right: 27%;
+    margin-bottom: 27%;
+    font-size: 22px;
+    background-color: #132028;
+    line-height: 161.8%;
+}
+
+h1 {
+    font-size: 42 px;
+    font-family: 'Wavefont';
+    text-align: center;
+}
+
+br {
+    content: "";
+    margin: 7%;
+    display: block;
+    font-size: 24%;
+  }
+
+.break-dot {
+    text-align: center;
+}
